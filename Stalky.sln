@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stalky", "Stalky\Stalky.csproj", "{F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stalky.Behaviors", "Stalky.Behaviors\Stalky.Behaviors.csproj", "{8DE198BE-5B4E-47B4-8413-2223CBA92246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE198BE-5B4E-47B4-8413-2223CBA92246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE198BE-5B4E-47B4-8413-2223CBA92246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE198BE-5B4E-47B4-8413-2223CBA92246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE198BE-5B4E-47B4-8413-2223CBA92246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+c:\Dev\Stalky\Stalky.Behaviors\bin\Debug\Stalky.Behaviors.dll
+c:\Dev\Stalky\Stalky.Behaviors\bin\Debug\Stalky.Behaviors.pdb
+c:\Dev\Stalky\Stalky.Behaviors\bin\Debug\Machine.Specifications.dll
+c:\Dev\Stalky\Stalky.Behaviors\bin\Debug\Stalky.dll
+c:\Dev\Stalky\Stalky.Behaviors\bin\Debug\Stalky.pdb
+c:\Dev\Stalky\Stalky.Behaviors\obj\Debug\ResolveAssemblyReference.cache
+c:\Dev\Stalky\Stalky.Behaviors\obj\Debug\Stalky.Behaviors.dll
+c:\Dev\Stalky\Stalky.Behaviors\obj\Debug\Stalky.Behaviors.pdb
+c:\Dev\Stalky\Stalky.Behaviors\bin\Debug\ScottWater.Boss.dll
+c:\Dev\Stalky\Stalky.Behaviors\bin\Debug\HtmlAgilityPack.dll

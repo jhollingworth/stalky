@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4" ModuleId="Stalky" />
+  <Module PersistentId="8DE198BE-5B4E-47B4-8413-2223CBA92246" ModuleId="Stalky.Behaviors" />
+</Modules>

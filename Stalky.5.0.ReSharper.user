@@ -1,0 +1,165 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/f:Class1.cs" caret="143" fromTop="6" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/f:CelebFinderContext.cs" caret="155" fromTop="4" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:ICelebFinderContributor.cs" caret="152" fromTop="3" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/f:CelebFinder.cs" caret="38" fromTop="1" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:WikipediaPageFinder.cs" caret="254" fromTop="7" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="478" fromTop="14" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:InvalidCelebrityException.cs" caret="169" fromTop="6" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbFinder.cs" caret="111" fromTop="3" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:DbpediaParserTests.cs" caret="1504" fromTop="37" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="1040" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbFinder.cs" caret="244" fromTop="7" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbFinder.cs" caret="282" fromTop="7" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbFinder.cs" caret="68" fromTop="3" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:WikipediaPageFinder.cs" caret="46" fromTop="1" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:WikipediaPageFinder.cs" caret="307" fromTop="7" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="663" fromTop="12" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="800" fromTop="20" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="29" fromTop="0" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/f:CelebFinderContext.cs" caret="141" fromTop="4" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="339" fromTop="10" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="281" fromTop="7" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="180" fromTop="5" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="660" fromTop="20" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:WikipediaPageFinderTests.cs" caret="931" fromTop="33" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:InvalidCelebrityException.cs" caret="169" fromTop="6" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:DbpediaParserTests.cs" caret="1725" fromTop="24" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:DbpediaParserTests.cs" caret="1725" fromTop="28" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:DbpediaParserTests.cs" caret="1715" fromTop="14" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:DbpediaParserTests.cs" caret="1715" fromTop="5" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="1582" fromTop="20" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="1580" fromTop="19" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="1590" fromTop="21" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="775" fromTop="15" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="827" fromTop="17" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="1133" fromTop="11" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="370" fromTop="11" />
+      <File id="F1FA8F0B-3E95-4BC9-ACF6-987F3F1517B4/d:Contributors/f:DbpediaParser.cs" caret="1319" fromTop="7" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:DbpediaParserTests.cs" caret="1092" fromTop="19" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:DbpediaParserTests.cs" caret="707" fromTop="6" />
+      <File id="8DE198BE-5B4E-47B4-8413-2223CBA92246/d:Contributors/f:DbpediaParserTests.cs" caret="521" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="10" />
+      <Item value="enum" priority="0" />
+      <Item value="PipelineContinuation`0" priority="1" />
+      <Item value="Context`0" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="ICelebFinderContributor`0" priority="0" />
+      <Item value="class" priority="3" />
+      <Item value="WikipediaPageFinderContext`0" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="string" priority="14" />
+      <Item value="static" priority="6" />
+      <Item value="It`0" priority="2" />
+      <Item value="void" priority="1" />
+      <Item value="Execute`0" priority="2" />
+      <Item value="Context" priority="3" />
+      <Item value="value" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="new" priority="4" />
+      <Item value="CelebFinderContext" priority="0" />
+      <Item value="_context" priority="0" />
+      <Item value="WikipediaUrl" priority="2" />
+      <Item value="Exception" priority="0" />
+      <Item value="WikipediaParserContext`0" priority="1" />
+      <Item value="Because`0" priority="1" />
+      <Item value="Celebrity" priority="4" />
+      <Item value="InvalidCelebrityException`0" priority="1" />
+      <Item value="where" priority="0" />
+      <Item value="TException`0" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="action" priority="2" />
+      <Item value="This`0" priority="0" />
+      <Item value="SerializableAttribute`0" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="Action`0" priority="0" />
+      <Item value="Delegate`0" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="var" priority="3" />
+      <Item value="if" priority="2" />
+      <Item value="href" priority="1" />
+      <Item value="true" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="type" priority="3" />
+      <Item value="null" priority="1" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="throw" priority="0" />
+      <Item value="context" priority="2" />
+      <Item value="celebrity" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="HtmlDocument`0" priority="0" />
+      <Item value="doc" priority="2" />
+      <Item value="GetName`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Stalky.Contributors.PipelineContinuation">
+      <Item value="Continue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Stalky.Behaviors.Contributors.when_valid_celeb_name">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Stalky.CelebFinderContext">
+      <Item value="Name" priority="1" />
+      <Item value="WikipediaUrl" priority="0" />
+      <Item value="Celebrity" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Stalky.Contributors.WikipediaPageFinder">
+      <Item value="Execute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ShouldNotBeEmpty`0" priority="0" />
+      <Item value="ShouldBe`0" priority="0" />
+      <Item value="ShouldEqual`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Stalky.Model.Celebrity">
+      <Item value="Name" priority="0" />
+      <Item value="Type" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action">
+      <Item value="ShouldThrow`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="0" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlDocument">
+      <Item value="DocumentNode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlNode">
+      <Item value="SelectSingleNode`0" priority="1" />
+      <Item value="InnerText" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
